@@ -8,7 +8,7 @@ tags: [CompNeuroSociety, projects, updates, Computational-Neuroscience]
 
 Its been about three weeks since my last post about CompNeuroSociety Project Development. Since then there has been some action: 
 - Dr. Pena will give a workshop to CNS Students on June 27th at 2PM.
-- Harthik from UConn will partner with us to make a sister organization
+- ~~Harthik from UConn will partner with us to make a sister organization~~
 
 However our projects are still under development. Last night I met virtually with Upi, Andre, and Hafsa to talk about projects for CNS and I brought up an idea I had about bringing in general members to help us develop projects. Andre had another really good idea about calling it a "Projects Onboarding Meeting/Discussion"
 

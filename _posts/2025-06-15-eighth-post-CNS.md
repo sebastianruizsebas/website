@@ -2,7 +2,7 @@
 title: Project Development Through CompNeuroSociety Pt. 4
 author: Sebastian Ruiz
 layout: post
-published: true
+published: false
 tags: [CompNeuroSociety, projects, updates, Computational-Neuroscience]
 ---
 
